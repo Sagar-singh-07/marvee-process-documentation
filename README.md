@@ -11,8 +11,8 @@ configuration reference in coordination with the e-Sangrakshan system.
  To assist in review, audit, and knowledge sharing
 
 ## Tools / Systems Involved
- Marvee (Workflow Management System)
- e-Sangrakshan (Digital Record Preservation System)
+ e-Sangrakshan 2.0 (Digital Record Preservation System)
+ e-nathikaran (only used for data transfer).
 
 ## Contents
  Detailed digitization process documentation (Phase 1–3)
