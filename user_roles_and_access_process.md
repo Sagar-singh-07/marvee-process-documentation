@@ -27,7 +27,6 @@ digitization system and how tasks move from one user to another.
  Ensures data accuracy and compliance.
  Updates audit status after review.
 
-## User Details (Sample)
 
 ### Audit Operator
  Name: Audittest  
@@ -80,4 +79,5 @@ digitization system and how tasks move from one user to another.
 The system follows a simple role-based process.  
 The Supervisor assigns work, operators complete their tasks step by step,
 and the workflow moves forward only after approval at each stage.
+
 
